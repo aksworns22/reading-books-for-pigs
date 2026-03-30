@@ -1,10 +1,5 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+# 📖 레퍼런스
+(질문이 있는 해당 책의 페이지와 본문 내용 또는 레퍼런스)
 
----
-
-
+# ❔ Question
+(질문 내용)
