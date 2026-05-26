@@ -16,9 +16,11 @@
 
 ## 👥 함께하는 사람들
 
-|[볼트](https://github.com/cksckckcks)|[호이](https://github.com/joon0447)|[커비](https://github.com/cbnuleehyunwoo)|[스마일](https://github.com/aksworns22)|[사무엘](https://github.com/Redish03)|[아오](https://github.com/CommitTheKermit)|[엘리](https://github.com/eungyeong12)|
-|---|----|----|------|------|-----|-----|
-|<img src = "https://avatars.githubusercontent.com/u/125573608?v=4" width = "120px;">|<img src = "https://avatars.githubusercontent.com/u/94978051?v=4" width = "120px;"> |<img src = "https://avatars.githubusercontent.com/u/85469621?v=4" width = "120px;"> |<img src = "https://avatars.githubusercontent.com/u/216482092?v=4" width = "120px;"> |<img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="120px;"/>|<img src = "https://avatars.githubusercontent.com/u/113445660?v=4" width = "120px;"> |<img src = "https://avatars.githubusercontent.com/u/108224432?v=4" width = "120px;">|
+| [볼트](https://github.com/cksckckcks) | [호이](https://github.com/joon0447) | [커비](https://github.com/cbnuleehyunwoo) | [스마일](https://github.com/aksworns22) | [사무엘](https://github.com/Redish03) |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/cksckckcks.png" width="100"> | <img src="https://github.com/joon0447.png" width="100"> | <img src="https://github.com/cbnuleehyunwoo.png" width="100"> | <img src="https://github.com/aksworns22.png" width="100"> | <img src="https://github.com/Redish03.png" width="100"> |
+| [아오](https://github.com/CommitTheKermit) | [엘리](https://github.com/eungyeong12) | [모스](https://github.com/katie0109) | [허닛](https://github.com/BaekCCI) | [조디악](https://github.com/chohs4164) |
+| <img src="https://github.com/CommitTheKermit.png" width="100"> | <img src="https://github.com/eungyeong12.png" width="100"> | <img src="https://github.com/katie0109.png" width="100"> | <img src="https://github.com/BaekCCI.png" width="100"> | <img src="https://github.com/chohs4164.png" width="100"> |
 
 
 ## 📖 책 목록
